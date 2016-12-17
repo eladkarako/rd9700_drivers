@@ -10,6 +10,10 @@
 
 This is the entire pack of driver including source-code for the shitty and cheap CORECHIP Semiconductor 10/100 USB 2.0 to RJ45 Network Device, You can use with your PC or Android device with it. Clean Of Virus Using virustotal.com
 
+You can download the entire thing by git-clone to your desktop, by hand (clicking the files in here), or visiting the (simple) github page. all same. as for installation, figure it for yourself,
+
+I saw that the drivers for windows DID have some kind of certificate, but it still might break your windows, so figure out things for yourself.. :|
+
 <img src="res/i1.jpg" width="256" height="256"/>
 <img src="res/i2.jpg" width="256" height="256"/>
 <img src="res/i3.jpg" width="256" height="256"/>
