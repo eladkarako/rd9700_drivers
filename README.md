@@ -88,3 +88,13 @@ Content:
 </pre>
 
 
+<pre>
+Virus total results:
+https://www.virustotal.com/en-gb/file/a641feb2594cd3a5d92ad06e9b8b36aeaf68158fd5680b62aaa388a82b3f5f37/analysis/1481967302/
+https://www.virustotal.com/en-gb/file/5604165dd81abb188c98d0d38af918be8da9faf1ab47d2a78facc976728a1c19/analysis/
+https://www.virustotal.com/en-gb/file/4b95db738c14439a6a4d5a1a0af7d8965ad7c1588c199e344f435d627f10dc33/analysis/
+https://www.virustotal.com/en-gb/file/4ec737158b4a5d35335bcf64d35c6eadef4dcd08cd723f1025de37b562300494/analysis/
+https://www.virustotal.com/en-gb/file/fabf3992e0dae1a259a599401ce6a089a11b891e19f5ce8fdff0105e56931142/analysis/
+https://www.virustotal.com/en-gb/file/17431e1667d27ab467bec760cb1f42306b8e4e6b1feb12088859cf6fcf64cfbb/analysis/
+https://www.virustotal.com/en-gb/file/24fe45de1d7f6d5c124437e4b010fa8d77937e764c0c1b8be528dc10b1a110f8/analysis/
+</pre>
